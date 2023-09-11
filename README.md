@@ -103,6 +103,3 @@ These commands are executed one-by-one when `autotyper` is run.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This updated README.md now includes an Installation section that guides users to download the appropriate archive from the Releases page and add the executable binary to their PATH for installation.
