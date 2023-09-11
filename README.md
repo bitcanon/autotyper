@@ -24,6 +24,16 @@ To use AutoTyper, you can run it with the following command:
 autotyper [flags] <command>
 ```
 
+### Input File
+
+In the following examples (and the GIF above) we will use the following `commands.txt` file:
+
+```shell
+mactool extract 00:68:EB:A1:B2:C3 A0:F8:49:D4:E5:F6
+mactool lookup 00:68:EB:A1:B2:C3 A0:F8:49:D4:E5:F6
+```
+These commands are executed one-by-one when `autotyper` is run.
+
 ### Examples
 
 - Read commands from a file and simulate typing with a 25ms delay between characters:
